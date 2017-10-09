@@ -1,0 +1,25 @@
+{
+  "name": "npmsy",
+  "version": "1.0.0",
+  "description": "一个测试文件",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qafgithub/npmsy.git"
+  },
+  "author": "qaf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qafgithub/npmsy/issues"
+  },
+  "homepage": "https://github.com/qafgithub/npmsy#readme",
+  "keywords": []
+}
